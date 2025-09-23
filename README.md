@@ -1,13 +1,13 @@
-# 👋 Hi, I’m Daniel Simuyu Murunga  
+# Hi, I’m Daniel Simuyu Murunga  
 
 🎓 **BSc (Mathematics and Economics, With IT)** – Maseno University (First Class Honours)  
-📍 Based in Kitale, Kenya  
+Based in Kitale, Kenya  
 
 I’m passionate about **Data Science, Artificial Intelligence, and EdTech innovation**. My journey blends strong analytical training with hands-on experience in building impactful digital solutions—from **AI-driven crop management tools** to **interactive mathematics textbooks** for Kenyan schools.  
 
 ---
 
-## 🚀 Projects & Experience  
+## Projects & Experience  
 
 - **📘 Interactive Digital Math Textbooks**  
   *INNODEMS | Nov 2024 – Present*  
@@ -22,14 +22,7 @@ I’m passionate about **Data Science, Artificial Intelligence, and EdTech innov
 
 ---
 
-## 🏅 Honors & Awards  
-
-- 🎖️ Scholarship: **KIEP-SKIES Certificate in Data Science & AI** – Open University of Kenya (2025)  
-- 🎓 **First Class Honours Degree** – Maseno University (2024)  
-
----
-
-## 🛠️ Skills  
+## Skills  
 
 - **Programming & Data:** Python, R, SQL  
 - **Data Science & AI:** Machine Learning, Computer Vision, Large Language Models (LLMs)  
@@ -39,7 +32,7 @@ I’m passionate about **Data Science, Artificial Intelligence, and EdTech innov
 
 ---
 
-## 📜 Certifications  
+## Certifications  
 
 - Data Science & Artificial Intelligence – Open University of Kenya  
 - IBM Data Science Practitioner [🔗 Verify](https://www.credly.com/badges/80bbf381-3f94-4d64-8bc2-8689fc7c13a9)  
@@ -48,20 +41,20 @@ I’m passionate about **Data Science, Artificial Intelligence, and EdTech innov
 
 ---
 
-## 📚 Workshops  
+## Workshops  
 
 - **Maths Camp – Siburi Mixed Secondary School (Feb 2025)**  
   Facilitated sessions under the theme *“Mathematics Instruction for Lifelong Learning.”*  
 
 ---
 
-## 📫 Let’s Connect  
+## Let’s Connect  
 
-- 📧 Email: **murungadaniel2002@gmail.com**  
-- 🔗 [LinkedIn](#) (add your link if available)  
-- 🌱 Currently learning: **Advanced AI & Data Mining**  
+- Email: **murungadaniel2002@gmail.com**  
+- [LinkedIn](#) (add your link if available)  
+- Currently learning: **Advanced AI & Data Mining**  
 
 ---
 
-✨ *“I believe in leveraging data and AI to create solutions that directly improve education, agriculture, and society.”*  
+*“I believe in leveraging data and AI to create solutions that directly improve education, agriculture, and society.”*  
 
