@@ -3,19 +3,19 @@
 🎓 **BSc (Mathematics and Economics, With IT)** – Maseno University (First Class Honours)  
 Based in Kitale, Kenya  
 
-I’m passionate about **Data Science, Artificial Intelligence, and EdTech innovation**. My journey blends strong analytical training with hands-on experience in building impactful digital solutions—from **AI-driven crop management tools** to **interactive mathematics textbooks** for Kenyan schools.  
+I’m passionate about **Data Science, Artificial Intelligence, and EdTech innovation**. My journey blends strong analytical training with hands-on experience in building impactful digital solutions from **AI-driven crop management tools** to **interactive mathematics textbooks** for Kenyan schools.  
 
 ---
 
 ## Projects & Experience  
 
-- **📘 Interactive Digital Math Textbooks**  
+- **Interactive Digital Math Textbooks**  
   *INNODEMS | Nov 2024 – Present*  
   - Designed and developed interactive textbooks aligned with Kenya’s CBC curriculum.  
   - Integrated **STACK** and **WeBWorK** for automated assessment and instant feedback.  
   - Improved student engagement and reduced teacher workload.  
 
-- **🌽 Vision-Based Maize Crop Management App** *(Capstone Project)*  
+- **Vision-Based Maize Crop Management App** *(Capstone Project)*  
   *Open University of Kenya | Mar – May 2025*  
   - Built a web app that detects maize leaf diseases and offers mitigation guidance.  
   - Leveraged computer vision to support farmers in improving crop yield and health.  
@@ -51,7 +51,7 @@ I’m passionate about **Data Science, Artificial Intelligence, and EdTech innov
 ## Let’s Connect  
 
 - Email: **murungadaniel2002@gmail.com**  
-- [LinkedIn](#) (add your link if available)  
+- [LinkedIn](https://www.linkedin.com/in/daniel-murunga-81748a240) (add your link if available)  
 - Currently learning: **Advanced AI & Data Mining**  
 
 ---
