@@ -51,7 +51,7 @@ I’m passionate about **Data Science, Artificial Intelligence, and EdTech innov
 ## Let’s Connect  
 
 - Email: **murungadaniel2002@gmail.com**  
-- [LinkedIn](https://www.linkedin.com/in/daniel-murunga-81748a240) (add your link if available)  
+- [LinkedIn](https://www.linkedin.com/in/daniel-murunga-81748a240) 
 - Currently learning: **Advanced AI & Data Mining**  
 
 ---
