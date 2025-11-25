@@ -10,7 +10,7 @@ I’m passionate about **Data Science, Artificial Intelligence, and EdTech innov
 ## Projects & Experience  
 
 - **Interactive Digital Math Textbooks**  
-  *INNODEMS | Nov 2024 – Present*  
+  *INNODEMS | Nov 2024 – Nov 2025*  
   - Designed and developed interactive textbooks aligned with Kenya’s CBC curriculum.  
   - Integrated **STACK** and **WeBWorK** for automated assessment and instant feedback.  
   - Improved student engagement and reduced teacher workload.  
